@@ -1,2 +1,1 @@
 # api-richest-people
-# test
